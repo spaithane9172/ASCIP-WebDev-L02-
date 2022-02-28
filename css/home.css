@@ -101,6 +101,8 @@ body{
     }
     .home-p-details button{
         height: 4vh;
+        width: 35vw;
+        font-size: 3.5vw;
     }
 }
 @media (max-width:576px) and (min-width:450px){

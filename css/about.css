@@ -28,6 +28,9 @@ body{
     width: 100%;
     box-shadow: 1px 1px 10px black;
 }
+.about-me-p-info a{
+    text-decoration: none;
+}
 .about-me-p-info:hover{
     transform: scale(1.02,1.02);
 }

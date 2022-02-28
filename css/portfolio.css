@@ -107,6 +107,22 @@ body{
     background-color: skyblue;
     width: 12.5vw;
 }
+.progres13{  
+    background-color: skyblue;
+    width: 15vw;
+}
+.progres14{  
+    background-color: skyblue;
+    width: 12.5vw;
+}
+.progres15{  
+    background-color: skyblue;
+    width: 6.25vw;
+}
+.progres16{  
+    background-color: skyblue;
+    width: 5vw;
+}
 .portfolio-tools-cards{
     color: white;
     margin-top: 3vh;
@@ -141,6 +157,7 @@ body{
 .portfolio-tools-card h5{
     font-size: 1.4vw;
     padding: 2vh 1vw;
+    text-align: center;
 }
 
 
@@ -315,6 +332,18 @@ body{
     .progres12{  
         width: 25vw;
     }
+    .progres13{  
+        width: 30vw;
+    }
+    .progres14{  
+        width: 25vw;
+    }
+    .progres15{  
+        width: 12.5vw;
+    }
+    .progres16{  
+        width: 10vw;
+    }
 
 /* portfolio tools media query css */
     .portfolio-tools-heading h3{
@@ -458,7 +487,18 @@ body{
     .progres12{  
         width: 25vw;
     }
-
+    .progres13{  
+        width: 30vw;
+    }
+    .progres14{  
+        width: 25vw;
+    }
+    .progres15{  
+        width: 12.5vw;
+    }
+    .progres16{  
+        width: 10vw;
+    }
 /* portfolio tools media query css */
     .portfolio-tools-heading h3{
         font-size: 4vw;
@@ -489,8 +529,8 @@ body{
     }
     .portfolio-myproject-image{
         width:90% ;
-        height: 12vh;
-        margin-bottom:1vh ;
+        height: 15vh;
+        margin-bottom:0;
     }
     .portfolio-myproject-details h4{
         font-size: 4vw;
@@ -500,9 +540,9 @@ body{
     }
     
     .portfolio-myproject-details button{
-        font-size: 2vw;
-        width: 20vw;
-        height: 4vh;
+        font-size: 3vw;
+        width: 30vw;
+        height: 3vh;
         margin-top: 1vh;
     }
 /* internship media query code */
