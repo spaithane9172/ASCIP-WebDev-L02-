@@ -146,6 +146,7 @@ body{
     align-items: center;
     height: 25vh;
     cursor: pointer;
+    transition: transform 0.2s is-in-out;
 }
 .portfolio-tools-card:hover{
     transform: scale(1.03,1.03);
@@ -184,7 +185,12 @@ body{
     align-items: center;
     height: 70vh;
     padding: 5px;
+    transition: transform 0.2s is-in-out;
 }
+.portfolio-myproject:hover{
+    transform: scale(1.02,1.02);
+}
+
 .portfolio-myproject-image{
     width:90% ;
     height: 30vh;
